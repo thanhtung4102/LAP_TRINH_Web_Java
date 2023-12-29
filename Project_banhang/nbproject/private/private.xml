@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/JAVA/Project_banhang-20231027T163227Z-001/Project_banhang/web/Order.jsp</file>
+            <file>file:/D:/JAVA/Project_banhang-20231027T163227Z-001/Project_banhang/src/java/dao/DAO.java</file>
+            <file>file:/D:/JAVA/Project_banhang-20231027T163227Z-001/Project_banhang/src/java/control/BuyCartControl.java</file>
+            <file>file:/D:/JAVA/Project_banhang-20231027T163227Z-001/Project_banhang/src/java/control/CartControl.java</file>
+            <file>file:/D:/JAVA/Project_banhang-20231027T163227Z-001/Project_banhang/web/Menu.jsp</file>
+            <file>file:/D:/JAVA/Project_banhang-20231027T163227Z-001/Project_banhang/src/java/control/ManagerControl.java</file>
+            <file>file:/D:/JAVA/Project_banhang-20231027T163227Z-001/Project_banhang/web/Edit.jsp</file>
+            <file>file:/D:/JAVA/Project_banhang-20231027T163227Z-001/Project_banhang/src/java/control/quantityProductCart.java</file>
+            <file>file:/D:/JAVA/Project_banhang-20231027T163227Z-001/Project_banhang/web/Home.jsp</file>
+            <file>file:/D:/JAVA/Project_banhang-20231027T163227Z-001/Project_banhang/web/Cart.jsp</file>
+            <file>file:/D:/JAVA/Project_banhang-20231027T163227Z-001/Project_banhang/web/ManagerOrder.jsp</file>
+            <file>file:/D:/JAVA/Project_banhang-20231027T163227Z-001/Project_banhang/web/OrderDetail.jsp</file>
+            <file>file:/D:/JAVA/Project_banhang-20231027T163227Z-001/Project_banhang/src/java/dao/CartDAO.java</file>
+            <file>file:/D:/JAVA/Project_banhang-20231027T163227Z-001/Project_banhang/src/java/control/ShowControl.java</file>
+            <file>file:/D:/JAVA/Project_banhang-20231027T163227Z-001/Project_banhang/src/java/control/DeleteControl.java</file>
+            <file>file:/D:/JAVA/Project_banhang-20231027T163227Z-001/Project_banhang/web/ManagerProduct.jsp</file>
+            <file>file:/D:/JAVA/Project_banhang-20231027T163227Z-001/Project_banhang/src/java/control/ShowOrderControl.java</file>
+        </group>
+    </open-files>
+</project-private>
